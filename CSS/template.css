@@ -80,5 +80,11 @@ ol {}
 /***************************************************************************
 															Utility Classes
 ***************************************************************************/
-.clear {clear:both;}
-.hidden {position:absolute;left:-5000px}
+.clear {
+	height:0;
+	clear:both;
+}
+.hidden {
+	position:absolute;
+	left:-5000px;
+}
