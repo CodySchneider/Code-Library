@@ -1,0 +1,16 @@
+.column {
+	float:left;
+	width:250px;
+	padding:10px;
+	margin:0 0 20px 20px;
+	border:3px double blue;
+	background:#ccc;
+}
+
+/***************************************************************************
+															Utility Classes
+***************************************************************************/
+.clear {
+	height:0;
+	clear:both;
+}
